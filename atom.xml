@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[The Official Resume Tracker Blog]]></title>
   <link href="http://resumetracker.github.com/atom.xml" rel="self"/>
   <link href="http://resumetracker.github.com/"/>
-  <updated>2012-04-12T16:05:57+08:00</updated>
+  <updated>2012-04-12T16:19:09+08:00</updated>
   <id>http://resumetracker.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[The Resume Tracker Support Team]]></name>
+    <email><![CDATA[support@resumetracker.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
