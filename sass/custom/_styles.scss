@@ -1,2 +1,17 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+html {
+  background: url('http://resumetracker.com/images/background/home-bg.jpg') repeat;
+}
+
+body > header {
+  background: #3d352e;
+}
+
+#content .blog-index article h1 {
+  font-size: 1.8em;
+}
+
+body > header h1 {
+  display: block;
+}

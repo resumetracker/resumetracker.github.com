@@ -1,9 +1,10 @@
 {% if site.twitter_user %}
-<section>
-  <h1>Latest Tweets</h1>
-  <ul id="tweets">
+<section class="well">
+  <ul id="tweets" class="nav nav-list">
+    <li class="nav-header">Latest Tweets</li>
     <li class="loading">Status updating...</li>
   </ul>
+  <div style="padding: 0 15px">
   <script type="text/javascript">
     $.domReady(function(){
       getTwitterFeed("{{site.twitter_user}}", {{site.twitter_tweet_count}}, {{site.twitter_show_replies}});
@@ -15,5 +16,6 @@
   {% else %}
     <p>Follow <a href="http://twitter.com/{{site.twitter_user}}">@{{ site.twitter_user }}</a></p>
   {% endif %}
+  </div>
 </section>
 {% endif %}
