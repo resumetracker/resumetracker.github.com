@@ -4,7 +4,7 @@
   <title><![CDATA[The Official Resume Tracker Blog]]></title>
   <link href="http://resumetracker.github.com/atom.xml" rel="self"/>
   <link href="http://resumetracker.github.com/"/>
-  <updated>2012-04-12T16:19:09+08:00</updated>
+  <updated>2012-04-12T16:24:47+08:00</updated>
   <id>http://resumetracker.github.com/</id>
   <author>
     <name><![CDATA[The Resume Tracker Support Team]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[New Pricing &amp; Offer for Our Early Users]]></title>
-    <link href="http://resumetracker.github.com/blog/2012/04/12/new-pricing-and-offer-for-our-early-users/"/>
+    <link href="http://resumetracker.github.com/new-pricing-and-offer-for-our-early-users/"/>
     <updated>2012-04-12T15:48:00+08:00</updated>
-    <id>http://resumetracker.github.com/blog/2012/04/12/new-pricing-and-offer-for-our-early-users</id>
+    <id>http://resumetracker.github.com/new-pricing-and-offer-for-our-early-users</id>
     <content type="html"><![CDATA[<p><img src="http://i.imgur.com/WHq12.jpg" alt="image" /></p>
 
 <p>We&#8217;re committed to delivering a great product that continues to evolve with new features and benefits. Therefore, we are changing our plan offerings in response to our customer requests for different packaging and features.</p>
