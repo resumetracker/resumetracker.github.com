@@ -62,7 +62,7 @@ function showTwitterFeed(tweets, twitter_user) {
       content = '<li class="nav-header">Latest Tweets</li>';
 
   for (var t in tweets) {
-    content += '<li>';
+    content += '<li class="post">';
     content += '<a href="http://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">';
     content += prettyDate(tweets[t].created_at);
     content += '</a>';
