@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Official Resume Tracker Blog]]></title>
+  <title><![CDATA[The Art of Recruiting]]></title>
   <link href="http://blog.resumetracker.com/atom.xml" rel="self"/>
   <link href="http://blog.resumetracker.com/"/>
-  <updated>2012-04-13T12:10:27+08:00</updated>
+  <updated>2012-04-13T12:15:20+08:00</updated>
   <id>http://blog.resumetracker.com/</id>
   <author>
     <name><![CDATA[The Resume Tracker Support Team]]></name>
