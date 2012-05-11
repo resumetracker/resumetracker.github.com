@@ -4,7 +4,7 @@
   <title><![CDATA[The Art of Recruiting]]></title>
   <link href="http://blog.resumetracker.com/atom.xml" rel="self"/>
   <link href="http://blog.resumetracker.com/"/>
-  <updated>2012-05-07T13:18:58+08:00</updated>
+  <updated>2012-05-11T16:46:12+08:00</updated>
   <id>http://blog.resumetracker.com/</id>
   <author>
     <name><![CDATA[The Resume Tracker Support Team]]></name>
@@ -12,6 +12,52 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[When Employee Referral Turns Ugly]]></title>
+    <link href="http://blog.resumetracker.com/when-employee-referral-turns-ugly/"/>
+    <updated>2012-05-11T15:18:00+08:00</updated>
+    <id>http://blog.resumetracker.com/when-employee-referral-turns-ugly</id>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/3AOZ3.jpg" alt="image" /></p>
+
+<p>Why do companies use employee referral programs? Because, by definition, they can generate the best candidates at a fraction of the cost of traditional recruitment methods.</p>
+
+<p>An employee referral program can also help employers to reach a source of high quality passive candidates (people who are not actively looking for new jobs). The referring employee usually screen his or her referrals closely because their own reputation is at stake. Employees tend to make sure the referrals are a good fit with the company&#8217;s culture before making the recommendation.</p>
+
+<p>However, not every employee referral has a happy ending.</p>
+
+<p>Here is <a href="http://jzhwu.blogspot.com/2012/05/im-former-miso-engineer-and-founders.html">a dramatic story</a> between a former Miso engineer and the company&#8217;s founders.</p>
+
+<p>To cut a long story short, the employee forgot to claim his referral bonus after referring a personal friend to Miso. After this employee left Miso, the employer refused to give back the bonus because they believe bonuses are to reward current employees only.</p>
+
+<p>This incident turned into <a href="http://news.ycombinator.com/item?id=3957314">a PR disaster</a> harming the company&#8217;s reputation.</p>
+
+<p>Eventually, Miso&#8217;s CEO admitted the mistake and agreed to pay for the referral bonus. Check his response <a href="http://jzhwu.blogspot.com/2012/05/im-former-miso-engineer-and-founders.html?showComment=1336703821164#c2706415837740343447">here</a>. He also makes the following changes in their referral program going forward:</p>
+
+<blockquote><p>Moving forward, we have established the following clear criteria to explain how employees will be eligible for the $10K referral bonus:</p>
+
+<ul>
+<li>The employee must provide a referral for a full-time hire.</li>
+<li>The referred employee must work at Miso for 6 full months after hire date (excluding any leaves of absence)</li>
+<li>The referring employee must be employed at Miso and not have given notice to depart the company prior to the date of the bonus payment.</li>
+</ul>
+</blockquote>
+
+<p>They probably never expected their referral program would hurt them so bad.</p>
+
+<h4>How to do it right?</h4>
+
+<p>So what can you do to avoid the same mistake?</p>
+
+<p>Firstly, your organization has to understand that it is necessary to add clear structure to an employee referral program, make sure the employees understand the benefits, track the result of referred candidates, reward successful referrals and discourage bad referrals.</p>
+
+<p>You can find a list of Employee Referral Program best practices <a href="http://www.ere.net/2011/08/15/the-complete-list-of-employee-referral-program-best-practices-part-1-of-2/">here</a>.</p>
+
+<p>After all, the benefits of successful employee referral programs should outweigh the potential pitfalls. Just remember that, before encouraging your employees to refer candidates, you have to make sure that a well designed employee referral program is already in place. And you have to spend time to teach your employees how to do this right.</p>
+
+<p>Image credit: <a href="http://www.flickr.com/photos/cgandolfo/3414718827/">mosippy@Flickr</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Small Business Answer to Filling Jobs: Personal Touch]]></title>
