@@ -21,9 +21,9 @@ Recruiting technology can help, but it can only take you so far. And it definite
 
 So if you find top talent candidate, your company has to be willing to invest more than just money because you  can’t compete based on wages, or equity alone nowadays. You need to make sure that they know you value their talent.
 
-One of the classic examples is how 42Floors, a startup trying to disrupt the commercial real estate market, decided to publicly offer the sophomore a job via their company blog.
+One of the classic examples is how 42Floors, a startup trying to disrupt the commercial real estate market, decided to publicly offer a college sophomore a job via their company blog recently.
 
-For the full blog post, please check out [here](http://42floors.com/blog/posts/consider-this-a-job-offer-to-work-at-42floors):
+Below is the offer letter. For the full blog post and background story, please check out [here](http://42floors.com/blog/posts/consider-this-a-job-offer-to-work-at-42floors):
 
 > Dear Dan Shipper:
 
