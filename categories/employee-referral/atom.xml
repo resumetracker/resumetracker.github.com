@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: employee | The Art of Recruiting]]></title>
-  <link href="http://blog.resumetracker.com/categories/employee/atom.xml" rel="self"/>
+  <title><![CDATA[Category: employee referral | The Art of Recruiting]]></title>
+  <link href="http://blog.resumetracker.com/categories/employee-referral/atom.xml" rel="self"/>
   <link href="http://blog.resumetracker.com/"/>
-  <updated>2012-05-11T16:46:12+08:00</updated>
+  <updated>2012-06-21T19:27:39+08:00</updated>
   <id>http://blog.resumetracker.com/</id>
   <author>
     <name><![CDATA[The Resume Tracker Support Team]]></name>

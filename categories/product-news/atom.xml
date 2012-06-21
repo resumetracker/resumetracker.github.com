@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Product news | The Art of Recruiting]]></title>
+  <link href="http://blog.resumetracker.com/categories/product-news/atom.xml" rel="self"/>
+  <link href="http://blog.resumetracker.com/"/>
+  <updated>2012-06-21T19:27:39+08:00</updated>
+  <id>http://blog.resumetracker.com/</id>
+  <author>
+    <name><![CDATA[The Resume Tracker Support Team]]></name>
+    <email><![CDATA[support@resumetracker.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Launch: New Resume Export, Email Notification and Mass Emailing Rejected Applicants]]]></title>
+    <link href="http://blog.resumetracker.com/new-resume-export-email-notification-and-mass-emailing-rejected-applicants/"/>
+    <updated>2012-06-21T17:05:00+08:00</updated>
+    <id>http://blog.resumetracker.com/new-resume-export-email-notification-and-mass-emailing-rejected-applicants</id>
+    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/NrCVr.png" alt="image" /></p>
+
+<p>Since launching Resume Tracker, it has had a feature called "Export Data", which export all the applicant's data in CSV or Excel format. However, users were not able to download resumes for a specific job position.</p>
+
+<h4>Today we introduce the new "Resumes Export"</h4>
+
+<p>Our customers have been asking for a better way to export data for backup purposes. They liked the original Export Data functionality, but they also wanted to be able to export resumes for a specific job instead of downloading all the information every time.</p>
+
+<p>Also, they wanted to have the option to download the resumes in PDF format.</p>
+
+<p>We've been listening your feedback and we're proud to release the brand new "Resumes Export" feature today.</p>
+
+<p>After you choose the output file format, we will compress all the files into a single ZIP file and email it to you. The whole process should be finished in a few minutes. It will take longer if you are exporting hundreds or thousands of resumes.</p>
+
+<p><img src="http://i.imgur.com/PYRqn.jpg" alt="image" /></p>
+
+<h4>Resume digest - better notification</h4>
+
+<p>In the past, Resume Tracker users received an email notification whenever someone applied for their opening positions. It works fine when there are only a few applicants applying per week/month. For some of our customers who have more than 10 applicants per day, those emails become annoying.</p>
+
+<p>So starting from today, our customers can choose to receive those notifications in a Daily or Weekly Digest email format. We hope this will improve the user experience for our heavy users.</p>
+
+<p>The default setting is still "per resume". You can change it on our "Settings" page.</p>
+
+<p><img src="http://i.imgur.com/iyCt5.jpg" alt="image" /></p>
+
+<h4>Mass emailing</h4>
+
+<p>Finally, our users told us they hope Resume Tracker can improve the communication with their job applicants, especially keeping the applicants update on the latest application progress.</p>
+
+<p>Based on this feedback, we've developed a new mass emailing feature so our customers can notify all the applicants when their applications are rejected. So they don't have to email each applicant separately.</p>
+
+<p>When you go to the Job Position page now, you will notice a new "Rejected Applicants" button on the right. In there, you will be able to mass emailing all the rejected applicants. For the email content, you can modify it in our Settings page.</p>
+
+<p>We hope you find these new features useful and would love to hear your thoughts about them.</p>
+
+<p>Thanks for your continuous support.</p>
+
+<p>Image credit: <a href="http://www.flickr.com/photos/nuvonova/3386817575/">nuvonova @Flicker</a></p>
+]]></content>
+  </entry>
+  
+</feed>
