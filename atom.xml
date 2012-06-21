@@ -4,7 +4,7 @@
   <title><![CDATA[The Art of Recruiting]]></title>
   <link href="http://blog.resumetracker.com/atom.xml" rel="self"/>
   <link href="http://blog.resumetracker.com/"/>
-  <updated>2012-06-21T19:27:39+08:00</updated>
+  <updated>2012-06-21T19:29:13+08:00</updated>
   <id>http://blog.resumetracker.com/</id>
   <author>
     <name><![CDATA[The Resume Tracker Support Team]]></name>
@@ -14,15 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Launch: New Resume Export, Email Notification and Mass Emailing Rejected Applicants]]]></title>
+    <title type="html"><![CDATA[Launch: New Resume Export, Email Notification and Mass Emailing Rejected Applicants]]></title>
     <link href="http://blog.resumetracker.com/new-resume-export-email-notification-and-mass-emailing-rejected-applicants/"/>
     <updated>2012-06-21T17:05:00+08:00</updated>
     <id>http://blog.resumetracker.com/new-resume-export-email-notification-and-mass-emailing-rejected-applicants</id>
-    <content type="html"><![CDATA[<p><img src="http://i.imgur.com/NrCVr.png" alt="image" /></p>
-
-<p>Since launching Resume Tracker, it has had a feature called &#8220;Export Data&#8221;, which export all the applicant&#8217;s data in CSV or Excel format. However, users were not able to download resumes for a specific job position.</p>
+    <content type="html"><![CDATA[<p>Since launching Resume Tracker, it has had a feature called &#8220;Export Data&#8221;, which export all the applicant&#8217;s data in CSV or Excel format. However, users were not able to download resumes for a specific job position.</p>
 
 <h4>Today we introduce the new &#8220;Resumes Export&#8221;</h4>
+
+<p><img src="http://i.imgur.com/NrCVr.png" alt="image" /></p>
 
 <p>Our customers have been asking for a better way to export data for backup purposes. They liked the original Export Data functionality, but they also wanted to be able to export resumes for a specific job instead of downloading all the information every time.</p>
 
@@ -32,9 +32,9 @@
 
 <p>After you choose the output file format, we will compress all the files into a single ZIP file and email it to you. The whole process should be finished in a few minutes. It will take longer if you are exporting hundreds or thousands of resumes.</p>
 
-<p><img src="http://i.imgur.com/PYRqn.jpg" alt="image" /></p>
+<h4>Resume digest</h4>
 
-<h4>Resume digest - better notification</h4>
+<p><img src="http://i.imgur.com/PYRqn.jpg" alt="image" /></p>
 
 <p>In the past, Resume Tracker users received an email notification whenever someone applied for their opening positions. It works fine when there are only a few applicants applying per week/month. For some of our customers who have more than 10 applicants per day, those emails become annoying.</p>
 
@@ -42,9 +42,9 @@
 
 <p>The default setting is still &#8220;per resume&#8221;. You can change it on our &#8220;Settings&#8221; page.</p>
 
-<p><img src="http://i.imgur.com/iyCt5.jpg" alt="image" /></p>
-
 <h4>Mass emailing</h4>
+
+<p><img src="http://i.imgur.com/iyCt5.jpg" alt="image" /></p>
 
 <p>Finally, our users told us they hope Resume Tracker can improve the communication with their job applicants, especially keeping the applicants update on the latest application progress.</p>
 
